@@ -1,0 +1,1991 @@
+{
+	"schools": [
+		{
+			"handle": "AshleyHall",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Ashley Hall #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1IveJpJpMwF7SrflQnnt9HRVIziJSUW8WkqCruFIYAbA/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1xs_R8QriWcxYtDiImO6zd84fwPmP1RBb/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BayRidgePrep",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Bay Ridge #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Q0MmnH4xCTwzixoTT6-0xTXv8Uu620JU5VOh0eAp9_s/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1Px_wYWi9Wois4z4OeQDBDbWbQCsyOSPl/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "EpiscopalCollegiateSchool",
+			"resources": []
+		},
+		{
+			"handle": "EpiscopalHighSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Episcopal High School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1H8N2GpLepIJUNPZ5vqWeRhYgySoTCspK3gByUo-HqsM/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "GilmanSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Gilman #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1YS4izni1RWvQIkiP4PnTY2f5rH9HRhhM7cXUIQN0CB0/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LakeForestCountryDaySchool",
+			"resources": []
+		},
+		{
+			"handle": "MissPortersSchool",
+			"resources": []
+		},
+		{
+			"handle": "CannonSchool",
+			"resources": []
+		},
+		{
+			"handle": "MountdeSalesAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Mount de Sales #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1e5wSCsLkCdVejvILsd4dPaSz_j7i2iEiuq-Nc5Yl9-A/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "NorthCarolinaSchoolofScienceandMathematics",
+			"resources": []
+		},
+		{
+			"handle": "OrchardHouseSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Orchard House #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/18ZMIIN6JZKfX0j3SE1B1XoAocXxiAUVvDizoHwsO54g/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SevenHillsSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Seven Hills #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1oNP1BXRxoThBMZsOpwzevNbwKWYN1LJLuKF9d0flTBc/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1QctRfnkKP9IzJhZb5PyiBZeAkX0Sq_vw/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "PingrySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Pingry #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1NieX1rY4tcK8QjjXNgQt5mrUJ3nDETet9VaNEYOfgEY/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StPaulsSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1zV71vAHz98q1aM8WoRdjX3tMgVyu7ZrL/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CalvertSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Calvert #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1xUgVx6F15BAWf094JHCMjNNoj2GSoTeZG8Z3eB2Ue54/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "EpiscopalSchoolofAcadiana",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "ESA #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1if3fxJBEwKFm02Kln7Xg5OEBWbaMPsT1PiKR5j3H1EQ/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FoxcroftSchool"
+		},
+		{
+			"handle": "StMargaretsEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1k4fJlmy-P5vZ-kwLkiF-vH2EwttkgS_s/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "GastonDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Gaston Day #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1m4W80xxjkmepU06pAKwaLpwB6QM-3SZOVKQeBa1PM4g/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "RavenscroftSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Ravenscroft #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1rLyxIi0fLczE37ZmmXQzpxxBGiLxyfV_qRasNliC3Ck/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ChristChurchEpiscopalSchool",
+			"resources": []
+		},
+		{
+			"handle": "TheSocialInstitute",
+			"resources": []
+		},
+		{
+			"handle": "CaryAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Cary Academy #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/14A_85kpp2H3Yk8dRpPCuIPFeWMTAwpXu6DjT-ZLfdaM/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ChristinaSeixAcademy",
+			"resources": []
+		},
+		{
+			"handle": "NorthstarAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Northstar #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1x11UhYargN8MaLdq-5Mo7Yk-Vj-eRNXYh-PbYw1qPEk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1RNc7vV31O7jRfobYh2WTf56M11i1Z7LJ/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "OakridgeSchool"
+		},
+		{
+			"handle": "TheStewardSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Steward #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1AOCLcdCCfTMv4z94oiJ4MKOGs_ujEnZHDR5Gcw3Yndo/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CollegiateSchool"
+		},
+		{
+			"handle": "GarrisonForestSchool",
+			"resources": []
+		},
+		{
+			"handle": "GreensFarmsAcademy",
+			"resources": []
+		},
+		{
+			"handle": "TheBuckleySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1mBTfhpxN5L8G5MHRzgGtzjUJKssLGbdx/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "JemicySchool"
+		},
+		{
+			"handle": "HeathwoodHallEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Heathwood Hall #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Dwn1BJYcF0IxDRZj3TR1oYQUQdrA2dBxPzn6w3CWyVk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1PIxWFHmfai-406nxWIkYpTjFZLWb9WYv/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "PaceAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Pace Academy #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1JfCrI2dnCVdGG2hWjCgeVcMndwqB9GHdCMGnAfxBDpk/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "McDougleMiddleSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/17H7wZySqaNRl36TVQxfLeAODCn9qPISK/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CarolinaDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Carolina Day School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1uSPuKEpuFhF-zJch6dky4zlamQZYtzYXlpvzjFcTW8s/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1JoRepFWZ-1rPa0FBDINqp_AcdQUs4KXC/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CheshireAcademy"
+		},
+		{
+			"handle": "WoodwardAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Woodward Academy #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/18lrmsI9zOWjxjwk5uGiqOC43dBgT7Ci7YMQc9remUd4/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SaintRaphaelCatholicSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Saint Raphael #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ahkaLN4OLpO8CGWw0tq6PsHin2EZHldkBEGTxKA_jf4/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "EagleHillSchool"
+		},
+		{
+			"handle": "HawaiiPreparatoryAcademy",
+			"resources": []
+		},
+		{
+			"handle": "StPaulsEpiscopalDaySchool"
+		},
+		{
+			"handle": "CincinnatiHillsChristianAcademy",
+			"resources": []
+		},
+		{
+			"handle": "FranklinTownshipSchools",
+			"resources": []
+		},
+		{
+			"handle": "AvonOldFarmsSchool"
+		},
+		{
+			"handle": "StCatherinesSchool",
+			"resources": []
+		},
+		{
+			"handle": "FrenchAmericanSchoolofNewYork",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "FASNY #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1tfl2EJey27uJViRE5qQ_UT3goEktHrrAOCbDkX9Opd8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StMarksCathedralSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. Mark's #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ysYYM4iNsUlSz_PG_yh2dYZlQNClhi0CnCIW-hScSFA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MontessoriSchoolofRaleigh",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "MSR #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/12nwBUxyIjo2HxTHYp92KsrKHW5Cy4HK6KrKMxIMX7GQ/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/133wHyD5YpnQMnI1CC9saWbPRBcJWVgut/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ThePaideiaSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Paideia #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/13Y4Q91PXQI9tSoESAuWBXPxpKY4BwYr48Fx-0M_fHuE/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TrinitySchoolOfDurhamAndChapelHill"
+		},
+		{
+			"handle": "DerryfieldSchool"
+		},
+		{
+			"handle": "ThePegasusSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/12Sr6Tg4ZXhjqf-4BI9i9dH-ntZ0bhxQl/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CharlotteLatinSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Charlotte Latin #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1TgcTILpcQcSYery65sFEFm8DLHbGO_g405pjL0jQF7E/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ShadyHillSchool"
+		},
+		{
+			"handle": "BurgawMiddleSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Burgaw #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1zlNwAJTJNAzwWHkI0ibLFIAV3r0pqvNjz4VlLsTgMtc/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "KingswoodOxfordSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Kingswood #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1b7ZqEpAVNVeak6MJwFn2FpxUrIQcay6mjM3HAE61-DA/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/19whLBw7QMMFLl6l5ir1y6jTRyBMbWHrL/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LakeForestSchools",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Deer Path #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1MN99qPkRxmlE2bb-peSWniuPkJvADW5jGZVrQTwKIdc/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LancasterCountryDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lancaster Country Day #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/170ETmRY0p5QRFmCaCtrlbHh2LjM2x2TVSrVPNOcRHeI/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1uAYmgTFMoklHWqgk_3HKMGEb0KWxdSdX/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "NorthviewHighSchool"
+		},
+		{
+			"handle": "TheWhiteMountainSchool"
+		},
+		{
+			"handle": "AthensAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Athens Academy #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/19rRIq1ng2WEF3tEYwyneb2pz3nh_TE3dyNe4sslVoBE/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheWebbSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Webb School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/12eWrESzAetSCKx700P4oRl-tiKkrz-D16dAG56GhQXg/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1Yx5k22jKVJlu1Fp4Fi82wZ5wdZyEsIMF/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LovettSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lovett #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1-cKVzAQw9SQUJgpr83Pzl4s4mT7gYtJgCgMPecYe9QE/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1mSqjOf6vDHE_kOEJkYu8jUtQOAgdAYjY/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SantaFeChristianSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Santa Fe #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1YMmpN8GkSjEPJYdT_ZUHgjlCQn027PiwCroo7Ou9xdo/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SalisburySchool"
+		},
+		{
+			"handle": "TheOnealSchool",
+			"resources": []
+		},
+		{
+			"handle": "ChristchurchSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Christchurch #WinAtSocial implementation Plan",
+					"url": "https://docs.google.com/document/d/1dLb2iLOz3SEe0rspvVd46kZm9U3ODeu2cl5iw82Lgi0/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheBishopsSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Bishop's #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1zcfYsTIg2R6GfNeMUVXQwL1PP4yn77HbX1N37N3LTbs/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "HebronAcademy",
+			"resources": []
+		},
+		{
+			"handle": "TheBrynMawrSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Bryn Mawr #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1fs9EdvVSkR3ai13PkOVDNSa4yuzmfG4D9C7Ot7Lr24c/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ForestRidgeSchoolOfTheSacredHeart",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Forest Ridge #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1GxLvV9fZJ8e47aRhIwyZjb11JwmgfacEtrV8aUx30no/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "EpiscopalAcademy",
+			"resources": []
+		},
+		{
+			"handle": "PorterGaudSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Porter-Gaud #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/16G4XP_8P35VJgluh5o1MNhwly8WaH24wB5f2GC8vKLU/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BelmontHillSchool"
+		},
+		{
+			"handle": "TheBollesSchool"
+		},
+		{
+			"handle": "RumseyHall",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Rumsey Hall #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/159nTzw0_1t9eZLLgM1bfmmo7R8aEFLmaE-yNioyciCQ/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ChathamHall"
+		},
+		{
+			"handle": "HillLearningCenter",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Hill #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1YTade-uOXtktAtlz02ODhj9ZQd-TsmghNn5i_oUhVFA/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/12XLuwmnuHSpd0oO6nPe4U05Y2vFw0SP9/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SavannahCountryDaySchool",
+			"resources": []
+		},
+		{
+			"handle": "ArendellParrottAcademy",
+			"resources": []
+		},
+		{
+			"handle": "OldfieldsSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Oldfields #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1j6OKv2KlC5l9Qbqy1kOUeA7ZsIFdLi5hQQ6eNviONto/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ColeMiddleSchool"
+		},
+		{
+			"handle": "ShadySideAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Shady Side #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1jPhl2425DZo9ZEamj0GD_lUCKnaKU_rsGSbwJaT7L14/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ThunderMountainHighSchool",
+			"resources": []
+		},
+		{
+			"handle": "DurhamNativitySchool",
+			"resources": []
+		},
+		{
+			"handle": "AllSaintsEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "All Saints Program Planner",
+					"url": "https://docs.google.com/spreadsheets/d/1_Bbn9b4Nd8U6mU-EK7yLIacnqiLEqg1K560oegm3gmw/edit?usp=sharing",
+					"placement": "trainer"
+				},
+				{
+					"fileType": "link",
+					"title": "All Saints #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1nUUDE0xTcTK-Gsh9xzksqz-PYcuL2Wml7pRJDDkrdvQ/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheFrederickGunnSchool",
+			"resources": []
+		},
+		{
+			"handle": "WoodberryForestSchool",
+			"resources": []
+		},
+		{
+			"handle": "BirchesSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Birches #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1M4jh2IdKufCAUypUzTk3KoxidUZuF0CeSToQ_nk4sGg/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "DeerfieldAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Deerfield #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/17lL4zu1B2y-vcWQ0OAuZ7ctHgH9Cu8xZRDkAv3cbZZA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ThePenningtonSchool",
+			"resources": []
+		},
+		{
+			"handle": "CarlthorpSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Carlthorp #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1uZ9kCJieBNWOe7CvCB0m7M0RVSLiCt5VC8VoYqYz8dA/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/17rjk9cDAgqUCNX7Hr9jMQz_Vg8m6p9tk/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "RandolphSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Randolph #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1N5SJGEstCv6qxqbTyT7Wii8nnWoQxfZOsghKYW_znPo/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1dYRowqqyXs7QyV976_-uU46pjS70369M/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "RutgersPreparatorySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Rutgers Prep #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1oweZlSp_vcP__6mi3T4DgrIE3RlNwc8SvSKq42ag0I8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "PulaskiAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Pulaski #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1wdvojGKRQ7enkVZJByExIn1YZ4_2uewFddInxlB3tN4/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1IStCrv1BRzw7mNTKZNK6rnkEBG7T43lC/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "OakHillSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Oak Hill #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1tJrRCjGWstpSbNq2ENxjkxc1X8j4eaLQ-f6djpK1Prk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1-KTYsnWHQJd8OvJcVsvQwNFRqCt45o85/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "USD309",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "USD 309 #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1IIQNB-3AtMQ07BWf1mpi28S9DF3u97SZ3u7e7tirUSU/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1itSeVQO0CdYpVM4A83bf0CaeocgIns4g/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TSISalesSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Sales Custom Resource",
+					"url": "https://bit.ly/WinAtSocialCaptain",
+					"placement": "trainer"
+				},
+				{
+					"fileType": "video",
+					"title": "Sales #WinAtSocial Intro (Custom)",
+					"url": "https://www.youtube.com/watch?v=yAP3qve33ws"
+				}
+			]
+		},
+		{
+			"handle": "DetroitCountryDay",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Detroit Country Day #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/18ZHzrjzUzh6wAaWwZQyEvaibKW-M9aU3lgrDm0WY3hQ/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FlintHillSchool",
+			"resources": []
+		},
+		{
+			"handle": "TheFieldSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "The Field School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1a90R9B5FnGpCyPQVF9tyh23sCIMudf_a0ESqcQSXHq4/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1dxAD66GbCgqUiLKN04LPdEcSf9NNT5Yx/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BattleGroundAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "BGA #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1070az0ZQ5iosW1bv7qD6ZFeRFaZu8gIeIq30LSYyJok/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StuartHallSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1Yp_Rhjx55PG5kthLW5htx8Uc3mxPoSS-/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "AugustaPrep",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Augusta Prep #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1zU-qPk69kLvNIrITPclVdeVs0grQkkPW7w3fLcJAj1U/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "2021 Student Kickoff Survey Report",
+					"url": "https://drive.google.com/file/d/1w85yV_CgTZPQ_CtH20MZos6O6VJiWxed/view?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1nJg6NZAQd_GFb-ciIMfcjuRzwoUd1T0z/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheHudsonSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Hudson #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1V2Cmi7G1B37UAvpCORtE3YtitTo1uVRr_KfVeLCI-n0/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1wbk38RKXz2EM1Jk9pz3pj7CGAs1FHGhd/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "HarborMontessoriSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Harbor Montessori #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Sv2rp7Rn-AuJfmurxC2tB9U-FvhAUTZSsgg6j88HfzQ/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StChristophersSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. Christopher's #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1PzRiBqmyZ7oFANmno4WA4aqJns628zZy7eqnoUqqTRI/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1rHlOk8DTQhSlyMFG6jG3CphQ2WHoTNrB/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheWebbSchoolofKnoxville",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Webb School of Knoxville #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1MjiLbEd0pJWXLOa8kBRcYSeFWabazAXShat95iH7lno/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1tamk-CFuboTVVQPxu8Y-gpEYEKZ3hLo7/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheBenjaminSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "The Benjamin School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1c9WEWeF10rM2bG2qLx6kQbfOoAfUq7F7EtlwlYN66W8/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/136NgXFzEkBbb_uiWaez3kmforaztsu1o/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheBrightSchool",
+			"resources": []
+		},
+		{
+			"handle": "CharlestonDySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Charleston Day #WinAtSocial Implementation School",
+					"url": "https://docs.google.com/document/d/1mNWiIS10rVZ6THA91hJepGwQ-vW6V0XG1Koel7-DWHI/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheKinkaidSchool",
+			"resources": []
+		},
+		{
+			"handle": "PalmBeachDayAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Palm Beach #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1XJTgBMYNqQTbiV9roxWs_dL_9hahe4KF5svG57j5Jks/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1OsM2Uqx6KN3XjeDRovCccinBuQvWuQ83/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TrinityEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1DZRQFFhuhI4QUBiP6qTUrxe8qYyD-QDt/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StMarkSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1ZMetzdZK7xefH5wpBWjU1ihiy9lXmiI1/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheTownSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/15UW13Ya8psqoclEGyBw8dJJ7kj8SenBu/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "KeystoneSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Keystone #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1kKw0IKVktiB63BsnEC2tCttFldskVDrVlm7E8IWb0V8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "WakefieldSchool",
+			"resources": []
+		},
+		{
+			"handle": "ForsythCountryDay",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Forsyth #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1b2C0RANZj6fXv4U0cbwknihRf7DyzYdUIncQRgOS3uk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1K94I-eyJyCUuAv0oPmOmioXrPpikS6-Q/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SpringwoodSchool",
+			"resources": []
+		},
+		{
+			"handle": "BaysideAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Bayside #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1xzKy4UNEv4-CXL5MZjd4wgEEvaJt3EWkvpEENbYJKIE/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StGeorgesEpiscopalSchool",
+			"resources": []
+		},
+		{
+			"handle": "AtlantaAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Atlanta Academy #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ZU0_XFouJ8XN0SKAdqf_WKuAFpLgJ-T1Yqs_kEWU6Is/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MadisonRidgelandAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Madison-Ridgeland #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/19WSrPhVtJLUuPCFC2q14NEQ3WXtBlCfdoMjBj1ODql0/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LyndonInstitute",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lyndon #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Ux27yE5ofuLypm3KOkVbq3A7x7fDJltCQ2Rwbfhj0RE/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "WoosterSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Wooster #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/13k5zzuG3aaoz7I0wkcAT6iUcbLe-NmT60wvwLLbX37k/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1L_anlovqF-dvJA2DvuonL0GQ_uIFlYwy/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StGeorgeEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. George #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/18sBQnvCHTim2-in9X6CNlOw2i0Y8shmnhVEOjUnI-W8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheEpiscopalSchoolOfKnoxville",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1tQPVpffK46YIR30malhyJ-YkwrMfZtQa/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StAndrewsEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1KT-BNstgZ1BFwivOMAdDwzQXZZBzIgsB/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CanterburySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Canterbury School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1BEkh4siplR8OZRuyd4Ym_s2YC0gmHn_VeAqpRr9HLUk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1PC-Msj3nxzuNQBEad_-WWcf9bdY50nw-/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "ChambersPublicSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Chambers #WinAtSocial Implementation Call",
+					"url": "https://docs.google.com/document/d/1qNRe6mMeHlc4kAEBGSjpGHQxA3hLRSdQ3Ah2AAABOpk/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MaryInstituteAndStLouisCountryDay",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "MICDS #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Bdasa5oC5gQi_Npyw5_LRNLBOGcGMoEjpUd2DvrW1wA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheFaySchool",
+			"resources": []
+		},
+		{
+			"handle": "BrookwoodSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Brookwood #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/14AZlWL5o2dukDooxRkp6V-s5chTd3fhHUQA8MxTEWLA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheAcademy",
+			"resources": []
+		},
+		{
+			"handle": "TowerSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1-UO2BieR8cDfdIEhYGiMuED6bSUQ5qEa/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "RanneySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Ranney School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1dRBbO75BiJBo35CguMlfiorwjXJuleWs6obRKFI03Q8/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1gElAqDygXGFBTf5TcEXa97_CVFNVbNok/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "AlexandriaCountryDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "ACDS #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1HuSbwkF_-M2GZfcSfGPyFin_lZKymrA5FS_FOuRzG8Q/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LouiseSMcGeheeSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Louise S. McGehee Implementation Plan ",
+					"url": "https://docs.google.com/document/d/13vpo83nSq3Y3GfPRgbd7sfN5kESiLIvwNn_N1izYuco/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1JOHJOwSsP_a7ASI0m_E3b-aCKQiid01i/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "Dzantik'iHeeniMiddleSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Dzantik'i Heeni Middle School Implementation Plan",
+					"url": "https://docs.google.com/document/d/19-KxThPYKHfF4XdlONR5gdhZfft_JGBy18G5GfdWEH0/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1Bjz55a_kq8QT4ic-ybmHDjq30_TbI40Z/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "GulfStreamSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1nN_K_yiAoCV93C6MmsxjKcueFToDYgoN/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "JuneauCommunityCharterSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Juneau #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ySW33ASoCLkJU6yOuPhUacwQv43zAwUBnEAdgRJ84vA/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1UHOEzy6YpVHFRzlAt_Do0mqG9qGBKL6m/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "CISOfCapeFear",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "CIS #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1tLolE8BFz1RVRp3i8ISAqeDQH1N1JI2-d97qgj-E040/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SeattleHebrewAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Seattle Hebrew Academy Implementation Plan",
+					"url": "https://docs.google.com/document/d/1NcK1RrVt3yoo1a26M1Dxw0oh4-FZQuby8ghWoP9xSwI/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1oJfkvEYmtsJhvsv_hmmR-j2pDDrOY0wr/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FirstPresbyterianDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "First Presbyterian Day School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1HyJDLUwL3vVbgZp0xGhtZ-6cVM7bP-y-JTEyJI4J29s/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "FPD Curriculum Calendar",
+					"url": "https://drive.google.com/file/d/1f42mdqiLJUOcdCmF0uBLvtdiP4NIwBGk/view?usp=sharing",
+					"placement": "trainer"
+				},
+				{
+					"fileType": "link",
+					"title": "FPD Curriculum Calendar",
+					"url": "https://drive.google.com/file/d/1f42mdqiLJUOcdCmF0uBLvtdiP4NIwBGk/view?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Handle the Pressure Biblical Immersion",
+					"url": "https://docs.google.com/presentation/d/1M1sAXJLsO1c6zYFmD_4A54pZf3dUMFsa/edit?usp=sharing&ouid=107346443635414184314&rtpof=true&sd=true",
+					"placement": "trainer"
+				},
+				{
+					"fileType": "link",
+					"title": "Strike a Balance Biblical Immersion",
+					"url": "https://docs.google.com/presentation/d/1srLjtjvyOpY289H9H7gHGLYFQN7lj22W/edit?usp=sharing&ouid=107346443635414184314&rtpof=true&sd=true",
+					"placement": "trainer"
+				}
+			]
+		},
+		{
+			"handle": "NationalCathedralSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "National Cathedral Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ubiv3Tgpajgo_NTGq6SOCLXRNKF6Wpr60mVGNTBWgZI/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "IrvingMiddleSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Irving #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1b5CD1Us78tMfz0Ozmtp4fHXrFVIlLUY494NKZZuXlQQ/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1O9WmtgNOP2eybY7xorB1uICs-r4ZmMDA/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheWalkerSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "The Walker School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1z40-vMhwi4PWmCIws4wez7Ftwa3YrcKeej9e46FmDXI/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MontgomeryBellAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Montgomery Bell #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1koi08l4qhZIP-mJ-PxAIiwCgiqlfGd7cZ4lYFw8CY6w/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FloydDrydenMiddleSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1ledwehyfcmVEeqGIcYtOPJX0wwKVzq6U/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MontessoriBorealisPublicSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Juneau #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ySW33ASoCLkJU6yOuPhUacwQv43zAwUBnEAdgRJ84vA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "JuneauDouglasHighSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Juneau #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ySW33ASoCLkJU6yOuPhUacwQv43zAwUBnEAdgRJ84vA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "YaakoosgéDaakahidiHighSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Juneau #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1ySW33ASoCLkJU6yOuPhUacwQv43zAwUBnEAdgRJ84vA/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "McCallieSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "McCallie School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1-1CNFd8t3vhEeh7AyjY7c_hD4WcGJMEyDH3yMHwo-O8/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1PJBPPj7KGDs3jm9wE3WpTEHjEX0gh6y0/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SanfordSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1FvjfzjQnsk6pU6c-sGo3O4PSphNH_10z/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TuscaloosaAcademy",
+			"resources": []
+		},
+		{
+			"handle": "StLukesEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. Luke's #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1y9cD7jyQZ2D7kuZsQc-foTLJRlSTki3PCa79Nb22Wdc/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1kXPN3z9vBfWoIop_poDZfKA-x2obS7YG/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheAgnesIrwinSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Agnes Irwin #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Smv0913pHSqun5VspVaD2Ff8vzYYTM2hHmpfeYblLng/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StStephensEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. Stephen's Episcopal School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1XMZoLOSIGoQbbcy1Y_l19fFzWnlP2g_2OXtR0Pb122Y/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MiltonHersheySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Milton Hershey School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1QhCJTAa0n-qUHFq0kPB3XnqAuKbeNPoWrelE-oVnVO0/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1PL5GJ-9HJ8pFrLqKHiflBIeNAkfRFabD/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FortWorthCountryDay",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Fort Worth #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/11Jy5_jinzck1q_unxEqFoEWwd2p4T29RAQikjwOx4IM/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1HKqT8hkE8TIUWLiP9eM6_FKf6LJ0_tr2/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "NewGardenFriendsSchool",
+			"resources": []
+		},
+		{
+			"handle": "GoodShepherdEpiscopalSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Good Shepherd Episcopal School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1UdROVloGgdg1DkBxRgRSeY0R2-dUowwmEE8mgKiJd9M/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TSIAdminSchool",
+			"resources": []
+		},
+		{
+			"handle": "HaddonfieldFriendsSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Haddonfield Friends School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1gkWUZfd76EK9DKIz-cb7M6XxYjE2XLAvt-zaDtKzXpk/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1jltXU4GHaqgplR9p6Hgbm2Iw8Zfj1WcO/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheTatnallSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "The Tatnall School Implementation Plan",
+					"url": "https://docs.google.com/document/d/14L6z9uAegWd1ZdqOo5u24wyCGowOv9cRd-JaLH-nb48/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1dj_iyeM7Y1ef-W2vvWyP_9R6uJ4WHqM7/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "FriendsSchoolofBaltimore",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Friends School of Baltimore Implementation Plan",
+					"url": "https://docs.google.com/document/d/1N44Uvc-M-yOmefKIrcdCHU1lC70HAxSkCkKdZVgxEJM/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1yJPg39YBHF23zlonO-De2xhDmma4zHXK/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StAlbansSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "St. Albans #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1BNxJABPeIBrAP3qw2A7UkdoiOpe3UegIKMDrb2Rm5Z8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LakesideSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lakeside #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1pu7060PqsLhb4RyMKMAHjkyUdGWrf-cIbh5-fzDm-bs/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1ziI_Bdan3Zw7u-OK71oxyjfiSihfLmsr/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "HathawayBrown",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Hathaway #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/13MnXvJ7J1mLMYO_d2YCZt00LgzkqjP_NB_6bxLzvBL8/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TheSummitCountryDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "The Summit Country Day School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1cmdifYd9ka1gSBMwA2LcF06iISKWpd70vXd3CByVS2s/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1HdTgtJ_l_W8un0nz33jsHIs_Ds1Ua0uZ/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BostonUniversityAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Boston University Academy Implementation Plan",
+					"url": "https://docs.google.com/document/d/1jHdDG1arHFMbnwy-6FA3oSEvSirE7ks8v5A1kapUAcg/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1gyWZp0GrMk-0uVuYh1RqpYB8Z2JeVlyW/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BackCreekChristianAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Back Creek Christian Academy Implementation Plan",
+					"url": "https://docs.google.com/document/d/1-9oKjZzWtNt7IcqlD9RIlI0L7r5m_APVnjJrLQ6AT4M/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "LakeRidgeAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lake Ridge Academy Implementation Plan",
+					"url": "https://docs.google.com/document/d/1HCvIBwMfFrrUqVU7v9w8kM2puO3ksN3PR8J6ZNOYRNg/edit?usp=sharing",
+					"placement": "captain"
+				},
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1S12BHvZI8T-ckiHRQ3b7bsp_TtBr4N6t/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "TASISDorado",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "TASIS Dorado Implementation Plan",
+					"url": "https://docs.google.com/document/d/1SdlHsK0059mbjNDnzWKjuaX2tCj3-A2J9WKzOcRBUV4/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "UniversitySchoolofNashville",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "University School of Nashville #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1SOXtgVSvy14MaH2XLC_TJVSFBCAbMYbBi6Cb_KWtVHo/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "Waynflete",
+			"resources": []
+		},
+		{
+			"handle": "EpiscopalDaySchool",
+			"resources": []
+		},
+		{
+			"handle": "LakeTahoeSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Lake Tahoe #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1S6K5lSIqHXsQJwjLgMmG3YISmkveiOS9wkodcQAcS48/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "StAndrewsSchools",
+			"resources": []
+		},
+		{
+			"handle": "FriendsSelectSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1nm09Z-ZV1Oe-73NNtz7CfIO4L3xpsjlh/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "UniversitySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "University School #WinAtSocial Implementation Plan",
+					"url": "https://t.sidekickopen07.com/s3t/c/5/f18dQhb0S7kF8cVQ2zW1sl6vS59hl3kW7_k2841CX6NGN35QwvdrP4WyVs7zDQ2xPDk-f197v5Y04?te=W3R5hFj4cm2zwW3H8_MV1Jz9RGW3P3n_M3Fbt5SW3H8_MX3_SNwqW1Lwngp1GF1-nW4hFyWW32qqWSW3P3N_m2p97ffW3bdZ2h1Z8g79W2RN5g63d8zDbW3Cf5W73_T4wSW3K2-zC2kcjnCW2ffmsy49M8XD0&si=8000000018210580&pi=bd752d34-fe3e-4573-fa18-931aecb155c8",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "MemphisUniversitySchool",
+			"resources": []
+		},
+		{
+			"handle": "BeaverCountryDaySchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Beaver Country Day School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1h3vxSBaN_aE4HKIV3DkiU-PCuyKp0WqNRMLZL9cMOAU/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "UniversitySchoolofMilwaukee",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "University School of Milwaukee #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/13HP5JTAueIF8DGul195fm5d3jg0iYSXBZ5mMEnwnajY/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "BaylorSchool",
+			"resources": []
+		},
+		{
+			"handle": "CapeFearAcademy",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Student-Requested #WinAtSocial Lessons",
+					"url": "https://drive.google.com/file/d/1l49jp_IJEAWzWOeeCZIqtJLu92hQYN30/view?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "OaklandCatholicHighSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Oakland Catholic High School Implementation Plan",
+					"url": "https://docs.google.com/document/d/1fBybmpRRaW1P8ssd77GTWwoiNmT4RYh3K-26DpGGC2k/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "AllianceVirgilRobertsLeadershipAcademy",
+			"resources": []
+		},
+		{
+			"handle": "TheDonohoSchool",
+			"resources": []
+		},
+		{
+			"handle": "MarylandInternationalSchool",
+			"resources": []
+		},
+		{
+			"handle": "HutchisonSchool",
+			"resources": [
+				{
+					"fileType": "link",
+					"title": "Hutchison School #WinAtSocial Implementation Plan",
+					"url": "https://docs.google.com/document/d/1Ui5CaqlXjk7_3xHV9Nw5zi_438yXaz4HsPzX1jS3bPs/edit?usp=sharing",
+					"placement": "captain"
+				}
+			]
+		},
+		{
+			"handle": "SummitSchool",
+			"resources": []
+		}
+	]
+}
